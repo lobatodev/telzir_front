@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="149" viewBox="0 0 100 149">
+  <g id="logo" transform="translate(-618.597 -73)">
+    <g id="Grupo_1" data-name="Grupo 1" transform="translate(214.545 -129.567)">
+      <path id="Caminho_1" data-name="Caminho 1" d="M0,1.351,26.173,0V85.567H0Z"
+        transform="translate(484.586 242)" fill="#fff" />
+      <path id="Caminho_2" data-name="Caminho 2" d="M1.145,1.47,26.173,0V59.142H0Z"
+        transform="translate(444.319 268.425)" fill="#fff" opacity="0.997" />
+      <path id="Caminho_3" data-name="Caminho 3" d="M0,2.673,26.173,0V39.386H0Z"
+        transform="translate(404.052 288.181)" fill="#fff" />
+    </g>
+    <!-- <text id="telZir" transform="translate(671.951 73)" fill="#fff" font-size="130"
+      font-family="LondrinaSolid-Regular, Londrina Solid">
+      <tspan x="75" y="122">telZir</tspan>
+    </text> -->
+  </g>
+</svg>
