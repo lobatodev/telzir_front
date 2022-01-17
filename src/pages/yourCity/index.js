@@ -35,7 +35,7 @@ const YourCity = () => {
       <Content>
         <Logo src={LogoImg} alt="logo" />
         <SearchSelect
-          placeholder="Escolha um método de pagamento"
+          placeholder="Selecione a cidade"
           value={city}
           items={cityData}
           onChange={(event) => setCity(event.target.value)}
